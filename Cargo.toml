@@ -1,0 +1,9 @@
+[package]
+name = "creeper-maven-coord"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.103"
+semver = "1.0.28"
+tracing = "0.1.44"
