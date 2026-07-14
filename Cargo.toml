@@ -1,7 +1,15 @@
 [package]
 name = "creeper-maven-coord"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
+authors = ["misaka10987 <misaka10987@outlook.com>"]
+description = "A Rust library for processing Maven Coordinates."
+documentation = "https://github.com/misaka10987/creeper-maven-coord"
+homepage = "https://github.com/misaka10987/creeper-maven-coord"
+repository = "https://github.com/misaka10987/creeper-maven-coord"
+readme = "README.md"
+keywords = ["maven", "coordinate", "maven-coord", "maven-coordinate", "java"]
+license = "MIT"
 
 [dependencies]
 anyhow = "1.0.103"
